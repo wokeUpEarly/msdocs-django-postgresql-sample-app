@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'MLC-Tools-Web-App'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFD30D0EDC2F408694DC6AFF5B2FC894 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08157AE9AFE747008D55575AE32BB550 }}
